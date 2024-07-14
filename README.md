@@ -9,6 +9,6 @@ The "HR Analytics" Tableau project offers a comprehensive analysis of HR data th
 
 These visualizations provide valuable insights into workforce demographics, compensation, satisfaction, and attrition trends, supporting informed decision-making in HR management.
 
-https://public.tableau.com/app/profile/vaishnavi.sulegai.radheshyam/viz/HRAnalytics_17058228311710/HRAnalyticsDashboard
+Live : https://public.tableau.com/app/profile/vaishnavi.sulegai.radheshyam/viz/HRAnalytics_17058228311710/HRAnalyticsDashboard
 
 ![image](https://github.com/user-attachments/assets/edbaefc5-013d-4024-b764-48e9777cb45e)
